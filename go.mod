@@ -5,10 +5,10 @@ go 1.26.0
 require (
 	github.com/infisical/go-sdk v0.6.8
 	golang.org/x/crypto v0.48.0
-	golang.org/x/term v0.40.0
+	golang.org/x/term v0.41.0
 )
 
-require golang.org/x/sys v0.41.0
+require golang.org/x/sys v0.42.0
 
 require (
 	cloud.google.com/go/auth v0.7.0 // indirect
